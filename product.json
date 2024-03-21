@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Product name 1",
+        "price": 50,
+         "image":"https://i.ebayimg.com/images/g/yC8AAOSwNipkZKfM/s-l400.jpg"
+    },
+    {
+        "id":2,
+        "name": "Product name 2",
+        "price": 30,
+         "image":"https://i.ebayimg.com/images/g/nQUAAOSw-QlkZKYC/s-l400.jpg"
+    },
+    {
+        "id":3,
+        "name": "Product name 3",
+        "price": 60,
+         "image":"https://i5.walmartimages.com/seo/Fossil-Blue-Three-Hand-Date-Tan-Eco-Leather-Watch_1969eb25-58c2-4c65-8a94-b610a52bc0ef.e34f9e882d469a4ed5ec6431a0bf9fdc.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+        "id":4,
+        "name": "Product name 4",
+        "price": 90,
+         "image":"https://www.ciccimarrashop.com/shop/19554-large_default/fossil-men-s-watch-blue-golden-and-green-fs5950.jpg"
+    },
+    {
+        "id":5,
+        "name": "Product name 5",
+        "price": 30,
+         "image":"https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S100696497_1?1703675749"
+    },
+    {
+        "id":6,
+        "name": "Product name 6",
+        "price": 60,
+         "image":"https://dynamic.zacdn.com/d_KA4dNhkcCZnrCW4Hx7jpYumZU=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/nuveau-6035-4846513-1.jpg"
+    }
+]
